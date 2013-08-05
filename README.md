@@ -16,10 +16,12 @@ New features/bug fixes
 In reverse chronological order:
 
  *  2013/08/05, __New feature__: [Added auto-complete to "give" ConCommand](https://github.com/ValveSoftware/source-sdk-2013/pull/64)
+   
     Valve rejected pull request ValveSoftware/source-sdk-2013#64.
     Added in commit 19da23d
     
     
  *  2013/08/05, __New feature__: [Print chat messages to console in color](https://github.com/ValveSoftware/source-sdk-2013/pull/63)
+   
     Valve rejected pull request ValveSoftware/source-sdk-2013#63
     Added in commit 45b370b
