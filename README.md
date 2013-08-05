@@ -15,11 +15,19 @@ New features/bug fixes
 ----------------------
 In reverse chronological order:
 
+ *  2013/08/05, __Bug fix__: [Custom URL handlers for the vgui::HTML panel now pass the URL and protocol](https://github.com/saul/source-sdk-2013/issues/3)
+
+    Awaiting Valve response on pull request. Added in commit [c6ad567](https://github.com/saul/source-sdk-2013/commit/c6ad5673281f1aacb3152c60cc61b8589733227d)
+
+ *  2013/08/05, __Bug fix__: [VBSP now checks all search path for FGD files when using func_instance](https://github.com/saul/source-sdk-2013/issues/3)
+
+    Awaiting Valve response on pull request. Added in commit [c6ad567](https://github.com/saul/source-sdk-2013/commit/c6ad5673281f1aacb3152c60cc61b8589733227d)
+
  *  2013/08/05, __New feature__: [Added auto-complete to "give" ConCommand](https://github.com/ValveSoftware/source-sdk-2013/pull/64)
    
-    Valve rejected pull request. Added in commit 19da23d
+    Valve rejected pull request. Added in commit [19da23d](https://github.com/saul/source-sdk-2013/commit/19da23d)
     
     
  *  2013/08/05, __New feature__: [Print chat messages to console in color](https://github.com/ValveSoftware/source-sdk-2013/pull/63)
    
-    Valve rejected pull request. Added in commit 45b370b
+    Valve rejected pull request. Added in commit [45b370b](https://github.com/saul/source-sdk-2013/commit/45b370b)
